@@ -1,0 +1,22 @@
+{
+  "name": "@rijk/acronyms",
+  "version": "1.0.0",
+  "description": "An array of (popular) acronyms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rijkvanzanten/acronyms.git"
+  },
+  "keywords": [
+    "acronyms"
+  ],
+  "author": "Rijk van Zanten <rijkvanzanten@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rijkvanzanten/acronyms/issues"
+  },
+  "homepage": "https://github.com/rijkvanzanten/acronyms#readme"
+}
